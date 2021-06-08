@@ -35,7 +35,7 @@ footer, header, hgroup, menu, nav, section {
 	animation-name: spinner;
 	animation-timing-function: linear;
 	animation-iteration-count: 1;
-	animation-duration: 3s;
+	animation-duration: 0.75s;
 	transform-style: preserve-3d;
 	text-align:center;
 	}
