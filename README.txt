@@ -1,3 +1,11 @@
+Hey! What's up? 
+
+Thanks for checking out the website / code for my personal music project!
+
+As much as I feel like a boss in my wardrobe I struggle to represent in other visual arts. 
+
+So special thanks to AJ @ajlkn for putting this little template together and giving me a creative base to jump from.
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
