@@ -2,7 +2,7 @@ Hey! What's up?
 
 Thanks for checking out the website / code for my personal music project!
 
-As much as I feel like a boss in my wardrobe I struggle to represent in other visual arts. 
+As much as I feel like a boss in my wardrobe I struggle to represent myself in other visual arts. 
 
 So special thanks to AJ @ajlkn for putting this little template together and giving me a creative base to jump from.
 
